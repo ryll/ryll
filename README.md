@@ -34,3 +34,9 @@ An end-to-end machine learning pipeline for predicting occupancy on Skånetrafik
 A slowly developing hobby project for making it easier to record harvests and explore statistics over time. I am building it to solve a practical need for my partner. *(Work in progress.)*
 
 *Stack: Next.js · TypeScript · React · Supabase · PostgreSQL · Zod*
+
+### [Ordlek](https://github.com/ryll/ordlek)
+
+A fun bit of accidental timing: a Swedish word game and solver that I wrote in early 2020, about 19 months before Wordle's public release. It is an independent take on mastermind in a word format, using the SAOL dictionary and two heuristics to rank the best next guess.
+
+*Stack: Python*
