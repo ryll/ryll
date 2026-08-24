@@ -1,12 +1,12 @@
 # Hi, I'm Ryll 👋
 
-Right now I am completing a MSc in Mathematics of Data Science at KTH by doing my master's thesis on building an automated evaluation benchmark for LLM-generated romance storytelling.
+I've been programming since around 2007, mostly in Python and largely through school work and personal projects: small tools that solve practical problems, process automation or video-game add-ons. As well as a lot of coding challenges such as Advent of Code and Project Euler.
 
-I've been programming since around 2007, mostly in Python and largely through personal projects: small tools that solve practical problems, process automation, video-game add-ons, and challenges such as Advent of Code and Project Euler. Along the way, I've also worked with Java and Clojure, and explored C, C++, Go, and various scripting languages.
+I'm mostly driven by my curiosity and enjoy tackling complex problems and figuring out the why. Currently, my main focus is on LLMs as I complete my MSc in Mathematics of Data Science at KTH, where my master's thesis centers on building an automated evaluation benchmark for LLM-generated romance storytelling.
 
 ### Core stack
 
-- **Languages:** Python, SQL, R, Java, Go, Clojure
+- **Languages:** Python, SQL, R, Java (Also familiar with: C, C++, Clojure, Go, Rust)
 - **Libraries & Frameworks:** pandas, NumPy, scikit-learn, PyTorch, LightGBM, XGBoost, Anthropic & OpenAI APIs, FastAPI, Pydantic, PySpark, Great Expectations, Hugging Face, Unsloth, Matplotlib, seaborn
 - **Concepts:** LLM Evaluation, LLM-as-a-Judge, Prompt Engineering, LLMOps, MLOps, Data Pipelines, Data Quality, Explainable AI, Machine Learning, Statistics, CI/CD
 - **Developer Tools:** Claude Code, Codex, Git, GitHub Actions, Google Cloud, Docker, pytest, mypy, Ruff
