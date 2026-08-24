@@ -1,6 +1,8 @@
 # Hi, I'm Ryll 👋
 
-I'm an MSc student in Mathematics of Data Science at KTH, interested in data and all things AI, with a particular focus on building systems whose results can be understood and trusted.
+Right now I am completing a MSc in Mathematics of Data Science at KTH by doing my master's thesis on building an automated evaluation benchmark for LLM-generated romance storytelling.
+
+I've been programming since around 2007, mostly in Python and largely through personal projects: small tools that solve practical problems, process automation, video-game add-ons, and challenges such as Advent of Code and Project Euler. Along the way, I've also worked with Java and Clojure, and explored C, C++, Go, and various scripting languages.
 
 ### Core stack
 
